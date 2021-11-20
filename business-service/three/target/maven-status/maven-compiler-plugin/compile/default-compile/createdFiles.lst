@@ -1,6 +1,0 @@
-reservation\service\service\ReservationServiceImpl.class
-reservation\service\repository\ReservationRepository.class
-reservation\service\service\ReservationService.class
-reservation\service\domain\Reservation.class
-reservation\service\controller\ReservationController.class
-reservation\service\ReservationServiceApplication.class

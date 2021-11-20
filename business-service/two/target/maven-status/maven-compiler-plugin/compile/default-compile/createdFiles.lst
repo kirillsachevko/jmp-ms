@@ -1,6 +1,0 @@
-room\service\RoomServiceApplication.class
-room\service\repository\RoomRepository.class
-room\service\controller\RoomController.class
-room\service\domain\Room.class
-room\service\service\RoomService.class
-room\service\service\RoomServiceImpl.class
