@@ -1,0 +1,9 @@
+room\resrervation\service\service\ReservationClient.class
+room\resrervation\service\RoomReservationApplication.class
+room\resrervation\service\domain\Room.class
+room\resrervation\service\controller\RoomReservationController.class
+room\resrervation\service\domain\Reservation.class
+room\resrervation\service\service\GuestClient.class
+room\resrervation\service\domain\RoomReservation.class
+room\resrervation\service\domain\Guest.class
+room\resrervation\service\service\RoomClient.class

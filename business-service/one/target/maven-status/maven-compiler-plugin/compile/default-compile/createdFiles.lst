@@ -1,0 +1,6 @@
+guest\service\service\GuestService.class
+guest\service\domain\Guest.class
+guest\service\service\GuestServiceImpl.class
+guest\service\repository\GuestRepository.class
+guest\service\web\GuestWebService.class
+guest\service\GuestServiceApplication.class
